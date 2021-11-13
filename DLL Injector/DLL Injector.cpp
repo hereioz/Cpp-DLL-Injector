@@ -59,7 +59,6 @@ int main()
 	try
 	{
 		hProc = OpenProcess(PROCESS_ALL_ACCESS, 0, procId);
-		throw (hProc);
 	}
 	catch (const std::exception& e)
 	{
