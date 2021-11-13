@@ -1,4 +1,4 @@
-# Cpp-DLL-Injector
+# C++ DLL Injector
 
 * #### What is dll injector?
   * is a program inject a dll file into a executable program
